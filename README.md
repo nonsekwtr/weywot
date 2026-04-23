@@ -1,3 +1,6 @@
+# Reasons for fork
+I captured this excellent list to eventually work on and develop my own list of Linix notes for my use case.
+
 # My notes on Linux
 
 This is a collection of notes that worked for my system at the time of writing. 
